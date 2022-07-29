@@ -1,0 +1,15 @@
+C:\Users\Hailey\RiderProjects\QuicStarInterfaceDeugger\QuicStarInterfaceDeugger\bin\Debug\net6.0\QuicStarInterfaceDeugger.deps.json
+C:\Users\Hailey\RiderProjects\QuicStarInterfaceDeugger\QuicStarInterfaceDeugger\bin\Debug\net6.0\QuicStarInterfaceDeugger.dll
+C:\Users\Hailey\RiderProjects\QuicStarInterfaceDeugger\QuicStarInterfaceDeugger\bin\Debug\net6.0\QuicStarInterfaceDeugger.pdb
+C:\Users\Hailey\RiderProjects\QuicStarInterfaceDeugger\QuicStarInterfaceDeugger\bin\Debug\net6.0\QuickStarFormInterface.dll
+C:\Users\Hailey\RiderProjects\QuicStarInterfaceDeugger\QuicStarInterfaceDeugger\bin\Debug\net6.0\QuickStarFormInterface.pdb
+C:\Users\Hailey\RiderProjects\QuicStarInterfaceDeugger\QuicStarInterfaceDeugger\obj\Debug\net6.0\QuicStarInterfaceDeugger.csproj.AssemblyReference.cache
+C:\Users\Hailey\RiderProjects\QuicStarInterfaceDeugger\QuicStarInterfaceDeugger\obj\Debug\net6.0\QuicStarInterfaceDeugger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hailey\RiderProjects\QuicStarInterfaceDeugger\QuicStarInterfaceDeugger\obj\Debug\net6.0\QuicStarInterfaceDeugger.AssemblyInfoInputs.cache
+C:\Users\Hailey\RiderProjects\QuicStarInterfaceDeugger\QuicStarInterfaceDeugger\obj\Debug\net6.0\QuicStarInterfaceDeugger.AssemblyInfo.cs
+C:\Users\Hailey\RiderProjects\QuicStarInterfaceDeugger\QuicStarInterfaceDeugger\obj\Debug\net6.0\QuicStarInterfaceDeugger.csproj.CoreCompileInputs.cache
+C:\Users\Hailey\RiderProjects\QuicStarInterfaceDeugger\QuicStarInterfaceDeugger\obj\Debug\net6.0\QuicStarInterfaceDeugger.csproj.CopyComplete
+C:\Users\Hailey\RiderProjects\QuicStarInterfaceDeugger\QuicStarInterfaceDeugger\obj\Debug\net6.0\QuicStarInterfaceDeugger.dll
+C:\Users\Hailey\RiderProjects\QuicStarInterfaceDeugger\QuicStarInterfaceDeugger\obj\Debug\net6.0\refint\QuicStarInterfaceDeugger.dll
+C:\Users\Hailey\RiderProjects\QuicStarInterfaceDeugger\QuicStarInterfaceDeugger\obj\Debug\net6.0\QuicStarInterfaceDeugger.pdb
+C:\Users\Hailey\RiderProjects\QuicStarInterfaceDeugger\QuicStarInterfaceDeugger\obj\Debug\net6.0\ref\QuicStarInterfaceDeugger.dll

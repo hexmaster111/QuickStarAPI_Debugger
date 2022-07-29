@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ELx7Azri3jL31eUQYLCeD9aL9Jpgn7NuRlXNIExOY3zeubhpX9jKUInBL4nVOJBUOb1qHO1H62iQSArEBw6iBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hailey\\RiderProjects\\QuicStarInterfaceDeugger\\QuicStarInterfaceDeugger\\QuicStarInterfaceDeugger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hailey\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Hailey\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net461\\1.0.2\\microsoft.netframework.referenceassemblies.net461.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
